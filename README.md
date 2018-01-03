@@ -105,7 +105,7 @@ For using multiple chat apps simultaneously for each person, the app's name is c
 ![https://github.com/drexly/sharechat](/intro/a41.png?raw=true "JARVIS kicks out")
 
 * * *
-### After "자비스, 메리크리스마스(Jarvis, merry christmas)" termination, Neither reading/decrypting the existing chatlog nor running the chat-app again is NOT possible. Should delete existing chatlog("said.log") to run over.
+### After "자비스, 메리크리스마스(Jarvis, merry christmas)" termination, Neither reading/decrypting the existing chatlog nor running the chat-app again is NOT possible. Should delete existing chatlog("said.log") to start over.
 
 ![https://github.com/drexly/sharechat](/intro/a42.png?raw=true "JARVIS kicks out")
 
