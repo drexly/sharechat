@@ -36,10 +36,12 @@ In "BALLOON" mode the main app UI flickers when any new change turns out, while 
 
 ![https://github.com/drexly/sharechat](/intro/a.png?raw=true "Main UI")
 
+* * *
 ### Type password for initial use when start from the scratch, or login with predefined password + created Symmetric Single Key pair.
 
 ![https://github.com/drexly/sharechat](/intro/a1.png?raw=true "Main UI")
 
+* * *
 ### Start from the scratch: Modal for creating initial password and its Secret Symmetric Single Key (signed by password).
 
 The First field for admin password login, granting an authority of making a new password of its app.
@@ -54,6 +56,7 @@ With the successful MainUI login, a new password key signed Secret Symmetric Sin
 
 ![https://github.com/drexly/sharechat](/intro/a2.png?raw=true "Main UI")
 
+* * *
 ### Thereby starts ShareChat in the SECURE MODE which hides the contents and turns into the previous login mode when outfocused(clicking another app) by the user.
 
 Contents are AES256 encrypted with the key and only decryptable by the pre-authorized MainUI.
@@ -66,37 +69,42 @@ For using multiple chat apps simultaneously for each person, the app's name is c
 
 ![https://github.com/drexly/sharechat](/intro/a3.png?raw=true "System Initialization")
 
+* * *
 ### The app UI support transparent mode calibrating with F1/F2 key, also supporting inverted color mode by toggling F3. Initial launch starts with SECURE MODE, which can be turned on/off by F6.
 
 ![https://github.com/drexly/sharechat](/intro/a35.png?raw=true "other person's chat logging in")
 ![https://github.com/drexly/sharechat](/intro/a4.png?raw=true "Starting chat with others")
 
+* * *
 ### While running the chatapp, you can minmize it to windows' taskbar by clicking close. You can "Real Exit" or read the "Help" by right-clicking its minimized icon in the taskbar.
 
 ![https://github.com/drexly/sharechat](/intro/b.png?raw=true "Notification of Minimize ")
 ![https://github.com/drexly/sharechat](/intro/c.png?raw=true "right-clicking its minimized icon in the taskbar")
 ![https://github.com/drexly/sharechat](/intro/d.png?raw=true "Clicking Help Key")
 
-
+* * *
 ### Due to the existence of Secure mode, New message's Notification and its contents are also secured when it's locked by SECURE MODE.
 
 ![https://github.com/drexly/sharechat](/intro/a36.png?raw=true "Secure Mode on")
 
+* * *
 ### By locking off the secure mode with F6 while logging in, New message's Notification and its contents can be shown directly to the user.
 
 ![https://github.com/drexly/sharechat](/intro/a37.png?raw=true "Secure Mode off")
 
+* * *
 ### The system ChatBot AI:Jarvis will be activated by logging in the correct password. Below image explicates the error notification of calling Jarvis with wrong password.
 
 ![https://github.com/drexly/sharechat](/intro/a38.png?raw=true "JARVIS gone wrong")
 
+* * *
 ### For instant chat clean-up with leaving no evidence including using of the chatapp, call "자비스, 메리크리스마스(Jarvis, merry christmas)" with typing password for next input. The system ChatBot AI:Jarvis will terminate all the chatapp processes running world-wide, simultaneously.
 
 ![https://github.com/drexly/sharechat](/intro/a39.png?raw=true "JARVIS command call")
 ![https://github.com/drexly/sharechat](/intro/a40.png?raw=true "JARVIS password input")
 ![https://github.com/drexly/sharechat](/intro/a41.png?raw=true "JARVIS kicks out")
 
-
+* * *
 ### After "자비스, 메리크리스마스(Jarvis, merry christmas)" termination, Neither reading/decrypting the existing chatlog nor running the chat-app again is NOT possible. Should delete existing chatlog("said.log") to run over.
 
 ![https://github.com/drexly/sharechat](/intro/a42.png?raw=true "JARVIS kicks out")
