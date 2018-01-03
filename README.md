@@ -28,7 +28,7 @@ DEFAULT PASSWORD IS password
 
 ## System introduction for Actual use
 
-### Main UI describing usage of function keys.
+### Main UI describing the usage of app function keys.
 
 (e.g. Secure mode switch:F6, Windows Start up program registry registration:F10...)
 
@@ -36,11 +36,11 @@ In "BALLOON" mode the main app UI flickers when any new change turns out, while 
 
 ![https://github.com/drexly/sharechat](/intro/a.png?raw=true "Main UI")
 
-### Type password for initial use when start from scratch, or login with predefined password + created Symmetric Single Key pair.
+### Type password for initial use when start from the scratch, or login with predefined password + created Symmetric Single Key pair.
 
 ![https://github.com/drexly/sharechat](/intro/a1.png?raw=true "Main UI")
 
-### Start from scratch: Modal for creating initial password and its Secret Symmetric Single Key (signed by password).
+### Start from the scratch: Modal for creating initial password and its Secret Symmetric Single Key (signed by password).
 
 The First field for admin password login, granting an authority of making a new password of its app.
 
