@@ -1,6 +1,6 @@
 # sharechat
 
-## DEVISED IDEA: Non Socket Programmed ShareFolder Based (Featured AES256 conversation Encrypt/Decrypt by SSK) Portable Chatting App
+## DEVISED IDEA : Non Socket Programmed ShareFolder Based (Featured AES256 conversation Encrypt/Decrypt by SSK) Portable Chatting App
 
 1. Chatting App execution in the Same Shared Folder in INTRANET without internet, Perfectly secured by preset password's dialogue encryption for each input.
 
@@ -31,6 +31,8 @@ DEFAULT PASSWORD IS password
 ### Main UI describing usage of function keys.
 
 (e.g. Secure mode switch:F6, Windows Start up program registry registration:F10...)
+
+In "BALLOON" mode the main app UI flickers when any new change turns out, while "POP" mode throws notifications from the right-corner taskbar.
 
 ![https://github.com/drexly/sharechat](/intro/a.png?raw=true "Main UI")
 
