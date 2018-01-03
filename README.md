@@ -10,7 +10,7 @@
 
 4. If any user needs to instant clean-up with leaving no evidence including using of the chatapp, call "자비스, 메리크리스마스(Jarvis, merry christmas)" with typing password for next input. It all terminates every app process instantly from world-wide chat-app users.
 
-Since the "TERMINATE" ChatBot command is written inside the encrypted sharing chatlog, it's impossible to start the app again without deleting the previous chatlog.
+Since the "TERMINATE" ChatBot command is written inside the encrypted sharing chatlog, it's impossible to start the app again without deleting the previous chatlog("said.log"). Same password will be retained while not deleting the previously created SSK("rkey.cer")
 
 and
 
