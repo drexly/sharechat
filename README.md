@@ -2,15 +2,15 @@
 
 ## DEVISED IDEA : Non Socket Programmed ShareFolder Based (Featured AES256 conversation Encrypt/Decrypt by SSK) Portable Chatting App
 
-1. Chatting App execution in the Same Shared Folder in INTRANET without internet, Perfectly secured by preset password's dialogue encryption for each input.
+1. Multi-Users executing the "sharechat" in the same shared folder concurrently via INTRANET(also works without internet), Dialogue perfectly secured by preset password's encryption for each user input.
 
-2. No server, No client, and No mercy for not knowing the password. Any wrong login attempt will be notified to the others, with logging the typed wrong passwords and the IP address of the intruder on the Encrypted chatlog.
+2. No server, No client, and No mercy for not knowing the password. Any wrong login attempt will be notified to the others in chatroom, with logging the typed wrong passwords and the IP address of the intruder on the Encrypted chatlog.
 
-3. Without a certification key file or password, it's Non-admissible and should start over the key making process with empty chatlog 
+3. Without a certification key file or a password, it's Non-admissible and should start over the key making process with empty chatlog 
 
 4. If any user needs to instant clean-up with leaving no evidence including using of the chatapp, call "자비스, 메리크리스마스(Jarvis, merry christmas)" with typing password for next input. It all terminates every app process instantly from world-wide chat-app users.
 
-Since the "TERMINATE" ChatBot command is written inside the encrypted sharing chatlog, it's impossible to start the app again without deleting the previous chatlog("said.log"). Same password will be retained while not deleting the previously created SSK("rkey.cer")
+### Since the "TERMINATE" ChatBot command is written inside the encrypted sharing chatlog, it's impossible to start the app again without deleting the previous chatlog("said.log"). Same password will be retained while not deleting the previously created SSK("rkey.cer")
 
 and
 
